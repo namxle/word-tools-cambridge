@@ -17,7 +17,7 @@ if (!fs.existsSync(words)) {
 
 var flag = true;
 console.log("\n\n========== Welcome to words tool version-1.0.3-cambridge ============\n")
-console.log("\t   ------------ written by namledzz ------------\n\n\n")
+console.log("\t   --------------- written by namxle ------------\n\n\n")
 
 var words = "../words/";
 
