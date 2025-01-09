@@ -1,0 +1,27 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crawler": "^1.2.1",
+    "download-file": "^0.1.5",
+    "excel4node": "^1.7.2",
+    "exec": "^0.2.1",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "lorem-ipsum": "^2.0.3",
+    "moment": "^2.24.0",
+    "readline-sync": "^1.4.10",
+    "rimraf": "^3.0.0",
+    "stack-lifo": "^0.1.6",
+    "typescript": "^3.7.2",
+    "url": "^0.11.0",
+    "windows-1252": "^1.0.0"
+  }
+}
